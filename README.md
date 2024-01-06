@@ -1,4 +1,5 @@
 # categories_comparison_test
+https://docs.google.com/document/d/1kCCcBrE0BsTRZRPTQpacuQCy7PlwFg_Iy-V6u_4zajQ/edit?usp=sharing
 
 Проект состоит из трех частей: 
 Парсер Магнита, реализован через апи-запросы, напрямую к источнику (magnit_parser.py)
