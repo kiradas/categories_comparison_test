@@ -1,0 +1,8 @@
+pandas
+beautifulsoup4
+retrying
+requests
+pyarrow
+python-Levenshtein
+dash
+fuzzywuzzy
